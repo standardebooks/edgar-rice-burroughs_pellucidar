@@ -44,7 +44,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Pellucidar</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>An adventurer returns to the hollow interior of the Earth in search of his lost love.</dc:abstract>
+		<meta property="schema:abstract">An adventurer returns to the hollow interior of the Earth in search of his lost love.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Pellucidar&lt;/i&gt;, the sequel to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core"&gt;At the Earth’s Core&lt;/a&gt;&lt;/i&gt;, was published in 1915. It continues the adventures of David Innes as he returns to the hollow interior of the Earth in search of his friend Perry and his lost love Dian the Beautiful. He takes with him many tools and weapons, intent on bringing civilization to the savage world within, which is populated with dinosaurs and neolithic creatures. He has many perilous adventures as he battles to survive.&lt;/p&gt;
 		</dc:description>
